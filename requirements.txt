@@ -1,0 +1,4 @@
+numpy==1.24.4
+scikit-learn==1.2.2
+joblib==1.2.0
+azureml-defaults
